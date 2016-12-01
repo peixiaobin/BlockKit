@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03438E631DF0216E00EEF481 /* BlockNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 03438E621DF0216E00EEF481 /* BlockNumber.m */; };
 		1E7E45B013D3AEDA00C569CE /* NSFileManager+BKAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E7E45AF13D3AEDA00C569CE /* NSFileManager+BKAdditions.m */; };
 		6A259F9B13D273DB0034CA1D /* NSDate-BKAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A259F9A13D273DB0034CA1D /* NSDate-BKAdditions.m */; };
 		6A259FBE13D28BC20034CA1D /* NSEnumerator-BKAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A259FBD13D28BC20034CA1D /* NSEnumerator-BKAdditions.m */; };
@@ -40,6 +41,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03438E611DF0216E00EEF481 /* BlockNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlockNumber.h; sourceTree = "<group>"; };
+		03438E621DF0216E00EEF481 /* BlockNumber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlockNumber.m; sourceTree = "<group>"; };
 		1E7E45AE13D3AEDA00C569CE /* NSFileManager+BKAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSFileManager+BKAdditions.h"; sourceTree = "<group>"; };
 		1E7E45AF13D3AEDA00C569CE /* NSFileManager+BKAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSFileManager+BKAdditions.m"; sourceTree = "<group>"; };
 		6A259F9913D273DB0034CA1D /* NSDate-BKAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate-BKAdditions.h"; sourceTree = "<group>"; };
@@ -154,6 +157,8 @@
 				F13EAAD013D282E8008C9BD2 /* BKTestView.m */,
 				F13EAA9E13D251D2008C9BD2 /* BlockKit */,
 				F13EAA8513D25084008C9BD2 /* Supporting Files */,
+				03438E611DF0216E00EEF481 /* BlockNumber.h */,
+				03438E621DF0216E00EEF481 /* BlockNumber.m */,
 			);
 			path = BlockPlayground;
 			sourceTree = "<group>";
@@ -293,6 +298,7 @@
 				F13EAAC113D251D2008C9BD2 /* NSObject-BKAdditions.m in Sources */,
 				F13EAAC213D251D2008C9BD2 /* UIActionSheet-BKAdditions.m in Sources */,
 				F13EAAC313D251D2008C9BD2 /* UIAlertView-BKAdditions.m in Sources */,
+				03438E631DF0216E00EEF481 /* BlockNumber.m in Sources */,
 				F13EAAC413D251D2008C9BD2 /* UIControl-BKAdditions.m in Sources */,
 				F13EAAC513D251D2008C9BD2 /* UIImage-BKAdditions.m in Sources */,
 				F13EAAC613D251D2008C9BD2 /* UIView-BKAdditions.m in Sources */,
